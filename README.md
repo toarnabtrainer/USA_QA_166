@@ -27,12 +27,3 @@ https://readthedocs.org/projects/selenium-python/downloads/pdf/latest/
 **Selenium Video Tutorial Link:**<br>
 https://youtube.com/playlist?list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz<br>
 https://youtube.com/playlist?list=PL6AdzyjjD5HCqilwLbXB-UEYCg5LopFPA
-
-**Selenium Text Tutorial Link:**<br>
-https://www.javatpoint.com/selenium-tutorial<br>
-https://pythonspot.com/category/selenium/<br>
-https://readthedocs.org/projects/selenium-python/downloads/pdf/latest/
-
-**Selenium Video Tutorial Link:**<br>
-https://youtube.com/playlist?list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz<br>
-https://youtube.com/playlist?list=PL6AdzyjjD5HCqilwLbXB-UEYCg5LopFPA
